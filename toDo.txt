@@ -1,0 +1,8 @@
+University images (himanshu )
+bug (apply btn not working below md)Done
+remove apply from other pages(done)
+apply animation home page(done)
+add featured University text(done)
+scroll top btn(done)
+linking in footer(done)
+////////////
